@@ -19,7 +19,7 @@ public class Exercice3 {
      if(flag=true){
          System.out.println("allumé");        
      }
-    // Si flag = vrai alors affiche "allumé" 
+    // Si flag == vrai alors affiche "allumé" 
     
      if(flag=false){
          System.out.println("éteint");
@@ -28,8 +28,13 @@ public class Exercice3 {
     
     //------------------------------------------------------------------------
     /**
-     * Quand j'execute le programme la valeur est retourné vrai et affiche 
-     * donc allumé,
+     * Quand j'execute le programme la valeur de flag n'est pas initialiser,donc 
+     * sa ne peut pas marcher avec l'opérateur de comparaison == ,c'est pourquoi
+     * dans les condition de if,il faudrai uttilsé l'opérateur d'afection (=) pour
+     * que sa puisse marcher
+     *  
+     * 
+     * 
      */
      }
         

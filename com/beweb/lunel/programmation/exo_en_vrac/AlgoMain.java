@@ -10,6 +10,7 @@ import com.beweb.lunel.programmation.exo_en_vrac.algo.Exercice2;
 import com.beweb.lunel.programmation.exo_en_vrac.algo.Exercice3;
 import com.beweb.lunel.programmation.exo_en_vrac.algo.Exercice4;
 import com.beweb.lunel.programmation.exo_en_vrac.algo.Exercice5;
+import com.beweb.lunel.programmation.exo_en_vrac.algo.Exercice6;
 
 /**
  *
@@ -27,6 +28,7 @@ public class AlgoMain {
         Exercice3.launch();//execution de l'exercice 3
         Exercice4.launch();//execution de l'exercice 4
         Exercice5.launch();//execution de l'exercice 5
+        Exercice6.launch();//execution de l'exercice 6
         // TODO code application logic here
     }
     

@@ -31,7 +31,7 @@ public class AlgoMain {
         Exercice5.launch();//execution de l'exercice 5
         Exercice6.launch();//execution de l'exercice 6
         Exercice7.launch();//execution de l'exercice 7
-        // TODO code application logic here
+        Exercice8.launch();//execution de l'exercice 8
     }
     
 }
